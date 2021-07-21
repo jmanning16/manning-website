@@ -1,0 +1,14 @@
+.icon::before {
+    font-style            : normal;
+    font-variant          : normal;
+    text-rendering        : auto;
+    -webkit-font-smoothing: antialiased;
+}
+
+.homeuser::before {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content    : "\e065";
+    color :#0000ff;
+    padding-right: 5%;
+}

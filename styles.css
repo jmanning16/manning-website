@@ -1,0 +1,15 @@
+p {
+    font-family: 'Source Code Pro', monospace;
+}
+
+h1 {
+    font-family  : 'Source Code Pro', monospace;
+    border-radius: 25px;
+    border       : 2px solid burlywood;
+    padding      : 2%;
+    width        : fit-content;
+    height       : fit-content;
+    text-align   : center;
+    margin-left  : auto;
+    margin-right : auto;
+}
